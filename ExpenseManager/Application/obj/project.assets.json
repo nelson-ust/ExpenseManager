@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj",
-      "projectName": "ExpenseManager.BAL",
-      "projectPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj",
+      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Nelson Attah\\.nuget\\packages\\",
-      "outputPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\obj\\",
+      "outputPath": "C:\\Module_two\\ExpenseManager\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nelson Attah\\AppData\\Roaming\\NuGet\\NuGet.Config",

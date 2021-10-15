@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj",
-      "projectName": "ExpenseManager.DAL",
-      "projectPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj",
+      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\Persistence\\Persistence.csproj",
+      "projectName": "Persistence",
+      "projectPath": "C:\\Module_two\\ExpenseManager\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Nelson Attah\\.nuget\\packages\\",
-      "outputPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\obj\\",
+      "outputPath": "C:\\Module_two\\ExpenseManager\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nelson Attah\\AppData\\Roaming\\NuGet\\NuGet.Config",

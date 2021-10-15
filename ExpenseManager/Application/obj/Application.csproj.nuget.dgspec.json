@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj": {}
+    "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj": {
+    "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj",
-        "projectName": "ExpenseManager.DAL",
-        "projectPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\ExpenseManager.DAL.csproj",
+        "projectUniqueName": "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Module_two\\ExpenseManager\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Nelson Attah\\.nuget\\packages\\",
-        "outputPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.DAL\\obj\\",
+        "outputPath": "C:\\Module_two\\ExpenseManager\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nelson Attah\\AppData\\Roaming\\NuGet\\NuGet.Config",

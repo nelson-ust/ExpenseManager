@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExpenseManager.BAL
+namespace Persistence
 {
     public class Class1
     {

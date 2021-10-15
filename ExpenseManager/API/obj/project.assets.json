@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\ExpenseManager.API\\ExpenseManager.API.csproj",
-      "projectName": "ExpenseManager.API",
-      "projectPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.API\\ExpenseManager.API.csproj",
+      "projectUniqueName": "C:\\Module_two\\ExpenseManager\\API\\API.csproj",
+      "projectName": "API",
+      "projectPath": "C:\\Module_two\\ExpenseManager\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Nelson Attah\\.nuget\\packages\\",
-      "outputPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.API\\obj\\",
+      "outputPath": "C:\\Module_two\\ExpenseManager\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nelson Attah\\AppData\\Roaming\\NuGet\\NuGet.Config",

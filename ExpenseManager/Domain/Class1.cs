@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExpenseManager.DAL
+namespace Domain
 {
     public class Class1
     {

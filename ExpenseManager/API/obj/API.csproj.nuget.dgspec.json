@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj": {}
+    "C:\\Module_two\\ExpenseManager\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj": {
+    "C:\\Module_two\\ExpenseManager\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj",
-        "projectName": "ExpenseManager.BAL",
-        "projectPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\ExpenseManager.BAL.csproj",
+        "projectUniqueName": "C:\\Module_two\\ExpenseManager\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Module_two\\ExpenseManager\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Nelson Attah\\.nuget\\packages\\",
-        "outputPath": "C:\\Module_two\\ExpenseManager\\ExpenseManager.BAL\\obj\\",
+        "outputPath": "C:\\Module_two\\ExpenseManager\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nelson Attah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,6 +56,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
