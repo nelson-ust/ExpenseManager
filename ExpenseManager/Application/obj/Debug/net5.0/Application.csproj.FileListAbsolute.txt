@@ -1,0 +1,17 @@
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Application.deps.json
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Application.dll
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Application.pdb
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Domain.dll
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Persistence.dll
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Persistence.pdb
+C:\Module_two\ExpenseManager\Application\bin\Debug\net5.0\Domain.pdb
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.dll
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Module_two\ExpenseManager\Application\obj\Debug\net5.0\Application.pdb

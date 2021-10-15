@@ -1,0 +1,15 @@
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Module_two\ExpenseManager\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Module_two\ExpenseManager\Persistence\obj\Debug\net5.0\Persistence.pdb
